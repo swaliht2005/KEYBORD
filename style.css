@@ -1,0 +1,54 @@
+body{
+    /* text-align: center; */
+
+}
+.maindiv{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 3px 3px 3px 3px;
+    
+    
+   
+
+}
+#keybord{
+    border: 2px solid black;
+   padding: 20px;  
+   background-color: blanchedalmond;
+   font-size: 18px;
+   padding: 20px;
+   box-shadow: 3px 3px 3px 3px;
+   border-radius: 10PX;
+  
+}
+.keyes button:hover
+{
+background-color:blueviolet;
+color:aqua;
+}
+.row{
+    padding:10px 20px;
+    margin: 4px;
+    box-shadow: 3px 3px 3px 3px;
+    border-radius: 8PX;
+} 
+#bs{
+    padding:10px 4px;
+}
+#bs1{
+    padding:10px 50px;
+}
+#bs2{
+    padding:10px 30px;
+}
+#bs3{
+    padding:10px 50px;
+}
+#bs4{
+    padding:10px 65px;
+}
+#bs5{
+    padding:10px 94px;
+}
